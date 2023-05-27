@@ -1,0 +1,182 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Alegreya Sans', sans-serif;
+}
+.secone{
+    background-image: url(../images/drew-coffman-1872.jpg);
+    background-size: cover;
+    display: inline-block;
+    width: 100%;
+}
+.clr{
+    clear: both;
+}
+.nav{
+    margin-top: 28px;
+    margin-bottom: 180px;
+}
+
+.nav img{
+    width: 160px;
+    margin-left: 50px;
+}
+.rightnav{
+    float: right;
+    margin-right: 50px;
+}
+.rightnav ul{
+    float: right;
+    margin-top: 20px;
+}
+.rightnav ul li{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.rightnav ul li a{ 
+    text-decoration: none;   
+    font-size: 1.3em;
+    color: white;
+}
+
+.home{
+    text-align: center;
+    color: white;
+    font-size: 1.6em;
+}
+.homebtn{
+    padding: 20px;
+    background-color: #937C47;
+    border: none;
+    margin: 30px 10px 100px;
+}
+.home p{
+    margin: 30px;
+}
+.home a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.sectwo{
+    margin: 70px 0px 70px ;
+}
+.details{
+    display: inline-block;
+    width: 45%;
+    text-align: left;
+    vertical-align: top;
+    margin-top: 80px;
+    margin-left: 50px;
+    font-size: 1.2em;
+
+}
+.details ul{
+    list-style: none;
+}
+.details ul li{
+    margin-top: 20px;
+}
+.imgleaf{
+    width: 25px;
+    margin-right: 10px;
+}
+.sectwoimg{
+
+    width: 49%;
+    display: inline-block;
+    text-align: center;
+}
+ .breadimg{
+    width: 90%;
+ }
+ .secthree{
+    background-color: #F8F8F8;
+    padding: 70px 20px;
+ }
+ .locationdeta{
+    display: inline-block;
+    width: 45%;
+    text-align: left;
+    vertical-align: top;
+    margin-top: 80px;
+    margin-left: 50px;
+    font-size: 1.3em;
+ }
+
+.secthreeimg{
+    width: 49%;
+    display: inline-block;
+    text-align: center;
+}
+
+.kitchenimg{
+    width: 90%;
+}
+
+.secfour{
+    text-align: center;
+    padding: 10px;
+    font-size: 1.1em;
+    margin-bottom: 20px;
+}
+
+.baking{
+    display: inline-block;
+    width: 30%;
+}
+
+.baking img{
+    width: 90%;
+    margin-bottom: 50px;
+}
+.secfive{
+    margin-top: 70px;
+    background-color: #F8F8F8;
+    padding: 40px 15px 100px;
+}
+.contactdetails{
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+    margin: 30px 0px 0px 50px;
+    font-size: 1.1em;
+}
+.contactdetails ul{
+ list-style: none;
+}
+.mapimg{
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+}
+
+
+.mapimg img{
+    width: 70%;
+}
+
+.secsix{  
+    padding: 50px 0px 40px 60px;
+    background-color: #3E3B36;
+    color: #b9b9b9;
+}
+.about , .special , .opnhour , .contdetails{
+    display: inline-block;
+    width: 23%;
+    vertical-align: top;
+} 
+
+.marg{
+    margin: 20px;
+}
+.footer{
+    text-align: center;
+    background-color: #252421;
+    padding: 50px;
+    color: #b9b9b9 ;
+}
